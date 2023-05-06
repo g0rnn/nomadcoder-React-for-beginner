@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/nomardcoder-react-for-beginners/static/js/main.2bd1a314.js",
+    "main.js": "/nomardcoder-react-for-beginners/static/js/main.e3850643.js",
     "index.html": "/nomardcoder-react-for-beginners/index.html",
-    "main.2bd1a314.js.map": "/nomardcoder-react-for-beginners/static/js/main.2bd1a314.js.map"
+    "main.e3850643.js.map": "/nomardcoder-react-for-beginners/static/js/main.e3850643.js.map"
   },
   "entrypoints": [
-    "static/js/main.2bd1a314.js"
+    "static/js/main.e3850643.js"
   ]
 }
