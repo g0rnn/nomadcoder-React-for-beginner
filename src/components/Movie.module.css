@@ -1,0 +1,24 @@
+.div {
+  background-color: rgb(242, 239, 215);
+  width: 800px;
+  height: 500px;
+  padding: 10px;
+  box-shadow: 0 0 20px 5px grey;
+  display: flex;
+  margin: 30px;
+  overflow: scroll;
+}
+
+.title {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+}
+
+.link {
+  text-decoration: none;
+  color: black;
+}
+
+.p {
+  width: 100%;
+}

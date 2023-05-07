@@ -1,5 +1,5 @@
 {
-  "name": "react-for-beginners",
+  "name": "react_for_beginners",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -12,6 +12,7 @@
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.11.1",
     "react-scripts": "5.0.1",
+    "styled-component": "^2.8.0",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -40,5 +41,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://g0rnn.github.io/nomardcoder-react-for-beginners"
+  "homepage": "https://g0rnn.github.io/nomadcoder-React-for-beginner"
 }
