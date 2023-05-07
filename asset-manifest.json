@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/nomadcoder-React-for-beginner/static/js/main.adfcb981.js",
+    "main.css": "/nomadcoder-React-for-beginner/static/css/main.4554550a.css",
+    "main.js": "/nomadcoder-React-for-beginner/static/js/main.4472caeb.js",
     "index.html": "/nomadcoder-React-for-beginner/index.html",
-    "main.adfcb981.js.map": "/nomadcoder-React-for-beginner/static/js/main.adfcb981.js.map"
+    "main.4554550a.css.map": "/nomadcoder-React-for-beginner/static/css/main.4554550a.css.map",
+    "main.4472caeb.js.map": "/nomadcoder-React-for-beginner/static/js/main.4472caeb.js.map"
   },
   "entrypoints": [
-    "static/js/main.adfcb981.js"
+    "static/css/main.4554550a.css",
+    "static/js/main.4472caeb.js"
   ]
 }
